@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestingGit</string>
+    <string name="hello_my_first_git_project">Hello My First Git Project ^_^</string>
+</resources>
